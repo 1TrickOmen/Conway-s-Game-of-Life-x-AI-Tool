@@ -47,4 +47,3 @@ pip install fastapi uvicorn numpy requests openai streamlit
 - **All logic was reviewed, tested, and understood by me.** No code was used without verification.
 
 This project demonstrates full-stack integration of simulation, API design, AI tooling, and UX — with transparency and attention to detail.
-```
