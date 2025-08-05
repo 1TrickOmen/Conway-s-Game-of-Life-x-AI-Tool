@@ -43,7 +43,8 @@ pip install fastapi uvicorn numpy requests openai streamlit
 ## Tools Used
 - **Python 3.11**, FastAPI, NumPy, Streamlit
 - **OpenAI GPT-4o-mini** with function calling
-- **AI-assisted coding**:Qwen and ChatGPT were used for code suggestions, debugging, and structure design.
+- **AI-assisted coding**: Qwen and ChatGPT were used for code suggestions, debugging, and structure design.
 - **All logic was reviewed, tested, and understood by me.** No code was used without verification.
 
-This project demonstrates full-stack integration of simulation, API design, AI tooling, and UX — with transparency and attention to detail.
+This project demonstrates full-stack integration of simulation, API design, AI tooling, and UX with transparency and attention to detail.
+
