@@ -48,4 +48,3 @@ pip install fastapi uvicorn numpy requests openai streamlit
 
 This project demonstrates full-stack integration of simulation, API design, AI tooling, and UX — with transparency and attention to detail.
 ```
-
