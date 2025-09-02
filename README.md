@@ -1,4 +1,4 @@
-# Monument AI - SEGA Challenge Submission
+# Conway’s Game of Life X AI Tool
 
 ## Overview
 A RESTful implementation of Conway’s Game of Life that uses the ASCII binary representation of an English word as the seed pattern. The service is integrated with `gpt-4o-mini` as a generative AI tool and includes a user-friendly interface for natural language interaction.
@@ -47,4 +47,5 @@ pip install fastapi uvicorn numpy requests openai streamlit
 - **All logic was reviewed, tested, and understood by me.** No code was used without verification.
 
 This project demonstrates full-stack integration of simulation, API design, AI tooling, and UX with transparency and attention to detail.
+
 
